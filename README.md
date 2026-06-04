@@ -1,9 +1,9 @@
 ## Hi there, I'm Pietro Kiossevski 👋
 
-💻 Transitioning into the programming field 
-📚 Studying Back-End development
-🚀 Building projects to improve my skills
-🎯 Looking for my first opportunity in the tech industry
+💻 Transitioning into the programming field <br> 
+🌱 Studying Back-End development <br>
+🚀 Building projects to improve my skills <br>
+🎯 Looking for my first opportunity in the tech industry <br>
 
 ---
 
@@ -35,23 +35,20 @@ I am studying programming logic, software development fundamentals, and technolo
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Pietro GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroKiossevski&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroKiossevski&layout=compact&theme=dracula)
-
-</div>
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pietro%20Kiossevski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietrokiossevski/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-PietroKiossevski-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PietroKiossevski)
 
+
+---
+
+
 ---
 
 ⭐ Thanks for visiting my profile!
+
+<div align="center">
+
+</div>

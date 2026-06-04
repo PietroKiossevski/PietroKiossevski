@@ -37,10 +37,13 @@ I am studying programming logic, software development fundamentals, and technolo
 
 ## GitHub Stats
 
+<div align="center">
+
 ![Pietro GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroKiossevski&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroKiossevski&layout=compact&theme=dracula)
 
+</div>
 ---
 
 ## Contact

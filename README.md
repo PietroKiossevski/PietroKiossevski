@@ -41,10 +41,6 @@ I am studying programming logic, software development fundamentals, and technolo
 
 [![GitHub](https://img.shields.io/badge/GitHub-PietroKiossevski-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PietroKiossevski)
 
-
----
-
-
 ---
 
 ⭐ Thanks for visiting my profile!
